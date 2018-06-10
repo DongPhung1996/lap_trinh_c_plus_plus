@@ -1,0 +1,8 @@
+﻿https://github.com/
+- tạo 1 tài khoản
+- git clone https://github.com/DongPhung1996/lap_trinh_c_plus_plus.git
+- vào thư mục vừa kéo về tiếp tục mở GIT BASH
+- gõ git status để kiểm tra sau đó bỏ toàn bộ code của mình vào thư mục
+- git add .
+- git commit -am "lap trinh c plus"
+- git push origin master
